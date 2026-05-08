@@ -34,21 +34,8 @@ jobconsultancy/
 └── README.md
 ```
 
-## How To Run
-
-Open `index.html` directly in any modern browser.
-
-For a local server preview, you can also run:
-
-```powershell
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
+## To check my website leve:-
+Click on this link :- https://jobsconsultancy.in/
 
 ## GitHub Repository
 
