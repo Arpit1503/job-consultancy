@@ -1,0 +1,13 @@
+.chrome-test/
+.well-known/
+cgi-bin/
+banner-image/
+
+# Local visual verification artifacts
+expert-slider-check.png
+home-tall-check.png
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
